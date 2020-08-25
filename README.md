@@ -1,7 +1,9 @@
 # html-web-fundamentals
 
 Introduction to Web Development.
-Familarising myself with all the fundamentals of Web Development.
+
+## Questions & Answers:
+In the page below, I am Familarising myself with some of the fundamentals of Web Development.
 
 ## Introduction to Web Fundamentals Page:
 
