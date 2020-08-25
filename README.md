@@ -5,7 +5,7 @@ Below is a basic HTML page that covers the introduction to Web Development.
 
 ## Questions & Answers:
 
-In the page below, I am Familarising myself with some of the fundamentals of Web Development.
+In the page below, I am familarising myself with some of the fundamentals of Web Development.
 
 ## Introduction to Web Fundamentals Page:
 
