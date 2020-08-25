@@ -1,8 +1,10 @@
 # html-web-fundamentals
 
-Introduction to Web Development.
+One of my first attemps to working with HTML docs.
+Below is a basic HTML page that covers the introduction to Web Development.
 
 ## Questions & Answers:
+
 In the page below, I am Familarising myself with some of the fundamentals of Web Development.
 
 ## Introduction to Web Fundamentals Page:
