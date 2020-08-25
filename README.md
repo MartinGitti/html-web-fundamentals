@@ -10,5 +10,5 @@ I share my own unbderstanding to some of the questions on Web Develepment, cover
 
 ## Introduction to Web Fundamentals Page:
 
-<img src="/webDev1.JPG" alt="web fundamentals page 1">
-<img src="/webDev2.JPG" alt="web fundamentals page 2">
+<img src="/screenshots-of-page/webDev1.JPG" alt="web fundamentals page 1">
+<img src="/screenshots-of-page/webDev2.JPG" alt="web fundamentals page 2">
