@@ -16,4 +16,4 @@ I share my own understanding to some of the questions of Web Develepment, covere
 ### This project is purely theory based:
 <p>Please read through the questions and answers and I hope that it can be of benefit to you for your coding journey.</p>
 
-Happy Coding :sunglasses:
+<span>Happy Coding :sunglasses:</span>
